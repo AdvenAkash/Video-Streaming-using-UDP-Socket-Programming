@@ -1,6 +1,6 @@
 
-# Welcome to PyShine
-# This is client code to receive video and audio frames over UDP/TCP
+
+# This is client code to receive video and audio frames over UDP
 
 import cv2, imutils, socket
 import numpy as np
